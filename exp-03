@@ -1,4 +1,4 @@
-1
+
 EXPERIMENT-3
 Write a Program to implement data link layer farming method checksum.
 The Checksum is an error detection method that detected errors in data/message while it
@@ -15,7 +15,11 @@ Input: sent_message = “10000101011000111001010011101101”,
 rec_message = “10000101011000111001010011101101”
 block_size = 8
 Output: No Error
+
+
+
 Program
+
 #include <iostream.h>
 #include <conio.h>
 #include <string.h>
